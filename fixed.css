@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bax{
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px;
+     
+}
+ 
+body{
+    background-color:black;
+}
+p{
+    color: whitesmoke;
+    width: 150px;
+    padding: 5px;
+    font-size: small;
+}
+.image1{
+    padding: 20px;
+}
+.image2{
+    padding: 20px;
+}
+.image3{
+    padding: 20px;
+}
+.image4{
+    padding: 20px;
+}
+.image5{
+    padding: 20px;
+}
+.image6{
+    padding: 20px;
+}
+.image7{
+    padding: 20px;
+}
+.image8{
+    padding: 20px;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+     
+}
+.images div{
+    flex-basis: 20%;
+
+
+}
