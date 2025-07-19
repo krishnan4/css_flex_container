@@ -22,13 +22,13 @@ Example:
 
 **2.flex-direction:**
   
-  i)row
+     i)row
   
-  ii)column
+     ii)column
   
-  iii)row-reverse
+     iii)row-reverse
   
-  iv)column-reverse
+     iv)column-reverse
 
  
  **i)row:**
@@ -141,14 +141,14 @@ Example:
 
  ![image](https://github.com/user-attachments/assets/095d193b-9222-41b3-8318-be2bd21f19ea)
 
-
+---
 **4.flex-wrap:**
    
-   I)flex-wrap: nowrap
+     I)flex-wrap: nowrap
    
-   II)flex-wrap: wrap
+    II)flex-wrap: wrap
    
-   III)flex-wrap: wrap-reverse
+    III)flex-wrap: wrap-reverse
 
 **I)flex-wrap: nowrap:**
 
